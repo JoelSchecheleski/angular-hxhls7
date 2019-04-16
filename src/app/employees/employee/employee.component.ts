@@ -7,8 +7,7 @@ import { NotificationService } from '../../shared/notification.service';
 
 @Component({
   selector: 'app-employee',
-  templateUrl: './employee.component.html',
-  styleUrls: ['./employee.component.css']
+  templateUrl: 'employee.component.html',
 })
 export class EmployeeComponent implements OnInit {
 
